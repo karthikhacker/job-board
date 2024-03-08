@@ -1,0 +1,54 @@
+.container {
+    width: 1000px;
+    margin: 50px auto;
+    padding: 10px 10px;
+    background-color: #ededed;
+}
+
+.container h2 {
+    margin-left: 10px;
+}
+
+.job-section {
+    width: 700px;
+    padding: 0 10px;
+}
+
+.card {
+    background-color: #FFF;
+    margin: 20px 0;
+    padding: 10px 10px;
+    font-weight: 500;
+}
+
+.card h3 {
+    font-weight: 800;
+    font-size: 1em;
+    color: #777;
+}
+
+.card a {
+    color: #598732;
+    text-decoration: none;
+}
+
+.card .by {
+    font-size: 0.9em;
+    color: #999;
+}
+
+.date {
+    font-size: 0.9em;
+    color: #999;
+    margin-left: 20px;
+}
+
+.btn {
+    outline: 0;
+    background-color: orange;
+    border: 0;
+    padding: 10px 20px;
+    color: #FFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
